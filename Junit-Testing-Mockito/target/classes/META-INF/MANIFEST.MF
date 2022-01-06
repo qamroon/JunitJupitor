@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: 02352U744
+Build-Jdk: 15.0.2
+Implementation-Title: Junit-Testing-Mockito
+Implementation-Version: 1.0
+Implementation-Vendor-Id: com.example
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/Junit-Testing-Mockito
+Created-By: Maven Integration for Eclipse
+
